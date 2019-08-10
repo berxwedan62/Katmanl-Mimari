@@ -1,0 +1,6 @@
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.Ado\bin\Debug\Mimari.Ado.dll
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.Ado\bin\Debug\Mimari.Ado.pdb
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.Ado\obj\Debug\Mimari.Entities.csprojAssemblyReference.cache
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.Ado\obj\Debug\Mimari.Entities.csproj.CoreCompileInputs.cache
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.Ado\obj\Debug\Mimari.Ado.dll
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.Ado\obj\Debug\Mimari.Ado.pdb

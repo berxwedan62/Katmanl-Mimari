@@ -1,0 +1,9 @@
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\obj\Debug\Mimari.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\bin\Debug\Mimari.DataAccess.dll
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\bin\Debug\Mimari.DataAccess.pdb
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\bin\Debug\Mimari.Ado.dll
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\bin\Debug\Mimari.Ado.pdb
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\obj\Debug\Mimari.DataAccess.csprojAssemblyReference.cache
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\obj\Debug\Mimari.DataAccess.csproj.CopyComplete
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\obj\Debug\Mimari.DataAccess.dll
+C:\Users\A047807\source\repos\KatmanliMimari\Mimari.DataAccess\obj\Debug\Mimari.DataAccess.pdb

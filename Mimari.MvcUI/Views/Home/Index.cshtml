@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Mimari.Ado.Concrete.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<table>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.ActionLink("Add", "Add")
+                    <a href="@Url.Action("Update",new { id=item.ProductId})"> Update </a>
+                       </td>
+
+            </tr>
+        }
+
+</table>
